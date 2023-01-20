@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	height: 100vh;
+}
+
+main h3{
+	color: white;
+	font-size: xxx-large;
+	padding: 2vh 2vw;
+	margin: 0 1.5vw;
+	border: 1px solid white;
+	box-shadow: 2px 0px 10px #FFFFFF;
+	border-radius: 6px;
+}
+
+h3.marcadores{
+	border: none;
+	padding: 0;
+	box-shadow: none;
+}
+
+h3#color1{
+	border: 1px solid #FF0000;
+	box-shadow: 2px 0px 10px #FF0000;
+	color: #FF0000;
+}
+
+h3#color2{
+	border: 1px solid #FF7F00;
+	box-shadow: 2px 0px 10px #FF7F00;
+	color: #FF7F00;
+}
+
+h3#color3{
+	border: 1px solid #FFFF00;
+	box-shadow: 2px 0px 10px #FFFF00;
+	color: #FFFF00;
+}
+
+h3#color4{
+	border: 1px solid #00FF00;
+	box-shadow: 2px 0px 10px #00FF00;
+	color: #00FF00;
+}
+
+h3#color5{
+	border: 1px solid #00FFFF;
+	box-shadow: 2px 0px 10px #00FFFF;
+	color: #00FFFF;
+}
+
+h3#color6{
+	border: 1px solid #0000FF;
+	box-shadow: 2px 0px 10px #0000FF;
+	color: #0000FF;
+}
+
+h3#color7{
+	border: 1px solid #8B00FF;
+	box-shadow: 2px 0px 10px #8B00FF;
+	color: #8B00FF;
+}
+
+h3#color8{
+	border: 1px solid #FF006C;
+	box-shadow: 2px 0px 10px #FF006C;
+	color: #FF006C;
+}
+
+h3#color9{
+	border: 1px solid #00FF84;
+	box-shadow: 2px 0px 10px #00FF84;
+	color: #00FF84;
+}
